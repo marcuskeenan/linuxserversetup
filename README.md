@@ -15,7 +15,9 @@ Start a new Ubuntu Linux server instance on [Amazon Lightsail] (https://lightsai
 ### Configure the server
 
 1. SSH to your server
-2. Add a user called '''grader'''  by running command: ''' useradd -m -s /bin/bash grader'''
+2. Add a user called "grader"
+  Run:
+  ```useradd -m -s /bin/bash grader```
 
 
 Run:
